@@ -15,8 +15,15 @@ const config: Config = {
       },
       colors: {
         primary: '#590BD8',
-        secondary: '',
+        primaryLighter: '#DDD5EA',
+        primaryDarker: '#312A4F',
+        grayPrimary: '#717171',
+        grayLighter: '#BBBFBF',
+
       },
+      textColor: {
+        dark: '#717171',
+      }
     },
   },
   plugins: [],
