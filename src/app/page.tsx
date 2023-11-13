@@ -1,10 +1,12 @@
 'use client'
 
+import TripSearch from "./components/TripSearch"
+
 export default function Home() {
 
-  return (
-    <div className="flex flex-col">
-      hello world!!
+  return ( 
+    <div>
+      <TripSearch />
     </div>
   )
 }
