@@ -11,7 +11,7 @@ export interface TripReservationProps {
 
 function Tripreservation({ trip }: TripReservationProps) {
   return (
-    <div className="flex flex-col px-5 pb-10 border-b border-grayLighter">
+    <div className="flex flex-col px-5">
       <div className="flex gap-4">
         <DatePicker
           placeholderText="Data de inico"
