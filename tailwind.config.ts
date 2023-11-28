@@ -17,7 +17,7 @@ const config: Config = {
         primaryDarker: '#312A4F',
         grayPrimary: '#717171',
         grayLighter: '#BBBFBF',
-
+        customWhite: '#F5F5F5'
       },
       textColor: {
         dark: '#717171',
